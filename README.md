@@ -1,4 +1,4 @@
-# workshop-June-2025
+# Workshop AI for Justice, June 2025
 Code and demos for the Workshop AI for Justice, 11-12 of June 2025
 
 ## Practice part 1: Retrieval Augmented Generation and chatbots
@@ -19,7 +19,9 @@ get to know AI models to extract information from video, audio and images.
 Deeper exploration of AI tools seen in Practice 2.  Experiments with Google [NotebookLM](https://notebooklm.google.com/). Understanding how AI models see similarities in the data, opening the “brain” of an AI model.
 
 ### Resources: 
-The notebook `simplified_embeddings.ipynb` show how text information is structured in the "AI brain". It can be run online by clicking on "Open in Colab". 
+The notebook `simplified_embeddings.ipynb` show how text information is structured in the "AI brain". It can be run online by clicking on "Open in Colab" <a target="_blank" href="https://colab.research.google.com/github/AIforJustice/workshop-June-2025/blob/main/simplified_embeddings.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>. 
 
 
 ## Practice part 4: Further developing AI for archiving: 
