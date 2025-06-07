@@ -24,7 +24,7 @@ Deeper exploration of AI tools seen in Practice 2.  Experiments with Google [Not
 The notebook `simplified_embeddings.ipynb` show how text information is structured in the "AI brain". It can be run online by clicking on "Open in Colab" <a target="_blank" href="https://colab.research.google.com/github/AIforJustice/workshop-June-2025/blob/main/simplified_embeddings.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>. 
-
+An [Interactive visualization](https://projector.tensorflow.org/) to see the representation of words of an AI model.
 
 ## Practice part 4: Further developing AI for archiving: 
 
