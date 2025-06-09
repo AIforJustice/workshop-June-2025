@@ -25,6 +25,32 @@ Practice with open-source models from Huggingface.co (<a target="_blank" href="h
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>).
 
+# Open-Source AI Model Demos
+
+This repository provides quick access to Google Colab notebooks for experimenting with open-source models, including speech-to-text, image understanding, and video summarization.
+
+## 🔍 Notebooks
+
+- **[Practice with Hugging Face models](https://colab.research.google.com/drive/1CGUX8z2O9hGMlceb3vYWVB24BymqOODV?usp=sharing)**  
+  Explore and interact with various open-source models from [HuggingFace.co](https://huggingface.co).
+
+- **[WHISPER – Speech to Text](https://colab.research.google.com/drive/1y5tyyVZSrvFKHtwbtsK7EmoMnOyeT504?usp=sharing)**  
+  Convert spoken audio into accurate transcriptions using OpenAI's Whisper model.
+
+- **[CLIP / BLIP – Image to Text](https://colab.research.google.com/drive/17jXQIl5dWUmFVJ7nn4VWDXfQi2yVevch?usp=sharing)**  
+  Generate captions and understand visual content using vision-language models.
+
+- **[Video Summarization](https://colab.research.google.com/drive/1kMyJmg1yNUvrsij4mgegwlKJlAiWl7vs?usp=sharing)**  
+  Automatically extract summaries from videos.
+
+- **[Feature Extraction from Files](https://colab.research.google.com/drive/1cpiw_KVQMLbI9dxqEispR_Vug2mwvt9T?usp=sharing)**  
+  Extract feature vectors from `.zip`, audio, image, text, or video files.
+
+---
+
+Each notebook runs in [Google Colab](https://colab.research.google.com/) and supports interactive uploads, inference, and file processing. No local setup required.
+
+
 ## Practice part 3: Understanding the AI representation of data
 
 ### Goal: 
