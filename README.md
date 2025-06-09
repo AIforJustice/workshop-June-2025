@@ -13,7 +13,7 @@ Group 2: (participants with programming experience) build a prototype RAG system
 ### Goal: 
 Get to know AI models to extract information from video, audio and images.
 
-Practice with open-source models from Huggingface.co https://colab.research.google.com/drive/1CGUX8z2O9hGMlceb3vYWVB24BymqOODV?usp=sharing (<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1CGUX8z2O9hGMlceb3vYWVB24BymqOODV?usp=sharing">
+Practice with open-source models from Huggingface.co (<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1CGUX8z2O9hGMlceb3vYWVB24BymqOODV?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>), WHISPER (<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1cpiw_KVQMLbI9dxqEispR_Vug2mwvt9T?usp=sharing">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
