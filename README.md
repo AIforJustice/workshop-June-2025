@@ -13,23 +13,11 @@ Group 2: (participants with programming experience) build a prototype RAG system
 ### Goal: 
 Get to know AI models to extract information from video, audio and images.
 
-Practice with open-source models from Huggingface.co (<a target="_blank" href="https://colab.research.google.com/github/username/repo/blob/branch/path/to/notebook.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/>
-</a>), WHISPER (<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1cpiw_KVQMLbI9dxqEispR_Vug2mwvt9T?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>), CLIP / BLIP (<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/17jXQIl5dWUmFVJ7nn4VWDXfQi2yVevch?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>) and others, convert speech to text, image to text and produce video summaries (<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1kMyJmg1yNUvrsij4mgegwlKJlAiWl7vs?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>). Settings for extraction feature vectors from zip, audio, images, text or video files, upload documents and files (<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1cpiw_KVQMLbI9dxqEispR_Vug2mwvt9T?usp=sharing">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>).
-
-# Open-Source AI Model Demos
+#### Open-Source AI Model Demos
 
 This repository provides quick access to Google Colab notebooks for experimenting with open-source models, including speech-to-text, image understanding, and video summarization.
 
-## 🔍 Notebooks
+### 🔍 Notebooks
 
 - **[Practice with Hugging Face models](https://colab.research.google.com/drive/1CGUX8z2O9hGMlceb3vYWVB24BymqOODV?usp=sharing)**  
   Explore and interact with various open-source models from [HuggingFace.co](https://huggingface.co).
