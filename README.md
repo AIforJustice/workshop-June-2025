@@ -11,7 +11,19 @@ Group 2: (participants with programming experience) build a prototype RAG system
 ## Practice part 2: AI for video, images and audio
 
 ### Goal: 
-get to know AI models to extract information from video, audio and images.
+Get to know AI models to extract information from video, audio and images.
+
+Practice with open-source models from Huggingface.co (<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1CGUX8z2O9hGMlceb3vYWVB24BymqOODV?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>), WHISPER (<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1cpiw_KVQMLbI9dxqEispR_Vug2mwvt9T?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>), CLIP / BLIP (<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/17jXQIl5dWUmFVJ7nn4VWDXfQi2yVevch?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>) and others, convert speech to text, image to text and produce video summaries (<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1kMyJmg1yNUvrsij4mgegwlKJlAiWl7vs?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>). Settings for extraction feature vectors from zip, audio, images, text or video files, upload documents and files (<a target="_blank" href="https://colab.research.google.com/github/https://colab.research.google.com/drive/1cpiw_KVQMLbI9dxqEispR_Vug2mwvt9T?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>).
 
 ## Practice part 3: Understanding the AI representation of data
 
