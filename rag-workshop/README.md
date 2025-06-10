@@ -1,5 +1,8 @@
 # Workshop for RAG
 
+## Overview vector search
+- [See Overview](vector_search.md)
+
 ## Requirements
 - Docker
 - An environment that can run an LLM or an LLM API key
@@ -33,4 +36,9 @@ uv init --python 3.12
 uv sync
 ```
 
-### 
+### Run applications
+
+```bash
+uv run main.py
+uv run rerank.py
+```
