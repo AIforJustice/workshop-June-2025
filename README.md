@@ -6,7 +6,7 @@ Code and demos for the Workshop AI for Justice, 11-12 of June 2025
 ### Goal: 
 Participants a divided in 2 groups (participants may choose which group they want to join)
 Group 1: Advanced use of chatbots (prompting, deep research,...)
-Group 2: (participants with programming experience) build a prototype RAG system to archive data, understand how it works and the limits. Reflect on the limitations.
+Group 2: (participants with programming experience) build a prototype RAG system to archive data, understand how it works and the limits. Reflect on the limitations. See [rag-workshop](https://github.com/AIforJustice/workshop-June-2025/tree/main/rag-workshop) for more info.
 
 ## Practice part 2: AI for video, images and audio
 
