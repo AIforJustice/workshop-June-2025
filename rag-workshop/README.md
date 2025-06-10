@@ -33,8 +33,4 @@ uv init --python 3.12
 uv sync
 ```
 
-### Run example application
-
-```bash
-uv run main.py
-```
+### 
