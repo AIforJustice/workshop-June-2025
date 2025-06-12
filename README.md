@@ -5,8 +5,11 @@ Code and demos for the Workshop AI for Justice, 11-12 of June 2025
 
 ### Goal: 
 Participants a divided in 2 groups (participants may choose which group they want to join)
-Group 1: Advanced use of chatbots (prompting, deep research,...)
+Group 1: Advanced use of chatbots (prompting, deep research,...) See [powerpoint](https://github.com/AIforJustice/workshop-June-2025/tree/main/powerpoints/advanced_chatbot_use.pdf).
 Group 2: (participants with programming experience) build a prototype RAG system to archive data, understand how it works and the limits. Reflect on the limitations. See [rag-workshop](https://github.com/AIforJustice/workshop-June-2025/tree/main/rag-workshop) for more info.
+
+### Notebooks
+- **[Example of chatbot generated code for RAG on the UCDP database](https://colab.research.google.com/drive/1TM9jgIRSVErHo0YmLhbnotoRhh9hJFR2?usp=sharing)**
 
 ## Practice part 2: AI for video, images and audio
 
