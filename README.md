@@ -1,11 +1,12 @@
 # Workshop AI for Justice, June 2025
-Code and demos for the Workshop AI for Justice, 11-12 of June 2025
+Presentations, code and demos for the Workshop AI for Justice, 11-12 of June 2025.
+The practice sessions are based on open source AI tools available online. Many of them comes from the website [Huggingface.co](https://huggingface.co/). Some demos are run on [Google colab](https://colab.research.google.com/), so that participants do not need to install anything on their computer. The demos can however be run on a local computer by downloading the colab notebooks. The computer needs to have [Python](https://www.python.org/) installed.
 
 ## Practice part 1: Retrieval Augmented Generation and chatbots
 
 ### Goal: 
-Participants a divided in 2 groups (participants may choose which group they want to join)
-Group 1: Advanced use of chatbots (prompting, deep research,...) See [powerpoint](https://github.com/AIforJustice/workshop-June-2025/tree/main/powerpoints/advanced_chatbot_use.pdf).
+Participants are divided in 2 groups (participants may choose which group they want to join)
+Group 1: Advanced use of chatbots (prompting, deep research, vibe coding ...) See [presentation](https://github.com/AIforJustice/workshop-June-2025/tree/main/presentations/advanced_chatbot_use.pdf).
 Group 2: (participants with programming experience) build a prototype RAG system to archive data, understand how it works and the limits. Reflect on the limitations. See [rag-workshop](https://github.com/AIforJustice/workshop-June-2025/tree/main/rag-workshop) for more info.
 
 ### Notebooks
